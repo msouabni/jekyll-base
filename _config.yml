@@ -13,4 +13,4 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
